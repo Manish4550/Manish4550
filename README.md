@@ -82,3 +82,18 @@
   </a>
 </p>
 
+---
+
+## 🤝 Let's Connect & Build the Future Together
+
+<p align="center">
+  👨‍💻 Let's connect and forge the future together! 🚀  
+  <br><br>
+  ⭐ Check out my repositories and don’t forget to give a star!
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=120&section=footer"/>
+</p>
+
+
